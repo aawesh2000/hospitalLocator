@@ -95,15 +95,6 @@ More at: http://covidhospitals.online/`,
 
         return (<MapContainer center={center} zoom={5} whenCreated={this.mapCreated}>
 
-           
-            <TileLayer
-                attribution='&copy; <a href="http://osm.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors'
-                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-            />
-            <TileLayer
-                attribution='Made with ❤️ by Aawesh & Saurabh'
-            />
-
             
             <LocateControl key="locate" options={locateOptions} />
             <SearchControl />
