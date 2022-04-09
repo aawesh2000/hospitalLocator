@@ -96,11 +96,6 @@ More at: http://covidhospitals.online/`,
         return (<MapContainer center={center} zoom={5} whenCreated={this.mapCreated}>
 
             
-            <TileLayer
-                attribution='Made with ❤️ by Md Aawesh & Saurabh'
-            />
-
-            
             <LocateControl key="locate" options={locateOptions} />
             <SearchControl />
             <RightControls dataSources={allHospitals} />
