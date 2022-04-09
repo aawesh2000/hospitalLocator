@@ -100,16 +100,16 @@ More at: http://covidhospitals.online/`,
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             
-            /*
             <TileLayer
-                attribution='Created by <a href="https://github.com/pgollangi" target="_blank" >github.com/pgollangi</a>'
-                url="https://github.com/pgollangi"
+                attribution='Created by <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >linkedin.com/in/md-aawesh-patanwala-3178a3166</a>'
+                url="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/"
             />
-            */
     
+    /*
             <TileLayer
                 attribution='Made with ❤️ by Md Aawesh & Saurabh'
             />
+    */
     
             
             
