@@ -95,6 +95,14 @@ More at: http://covidhospitals.online/`,
 
         return (<MapContainer center={center} zoom={5} whenCreated={this.mapCreated}>
 
+            <TileLayer
+                attribution='&copy; <a href="http://osm.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors'
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            />
+            <TileLayer
+                attribution='Created by <a href="https://github.com/pgollangi" target="_blank" >github.com/pgollangi</a>'
+                url="https://github.com/pgollangi"
+            />
             
             <LocateControl key="locate" options={locateOptions} />
             <SearchControl />
