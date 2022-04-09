@@ -110,7 +110,7 @@ function SourceDialog(props) {
                 </TableContainer>
 
                 <p>
-                    This site is an open source project created by <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >pgollangi</a>.
+                    This site is an open source project created by <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >Md Aawesh</a>.
                     </p>
                 <p> Please feel make changes to this, or add more data sources at <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="blank">https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/</a>
                 </p>

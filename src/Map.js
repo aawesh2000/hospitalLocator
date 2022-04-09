@@ -95,6 +95,15 @@ More at: http://covidhospitals.online/`,
 
         return (<MapContainer center={center} zoom={5} whenCreated={this.mapCreated}>
 
+            <TileLayer
+                attribution='&copy; <a href="http://osm.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors'
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            />
+            
+            <TileLayer
+                attribution='Made with ❤️ by <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >Md Aawesh</a>'
+                url="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/"
+            />
             
             <LocateControl key="locate" options={locateOptions} />
             <SearchControl />
