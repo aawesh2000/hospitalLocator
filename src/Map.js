@@ -101,7 +101,7 @@ More at: http://covidhospitals.online/`,
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             <TileLayer
-                attribution='Made with ❤️ by Md Aawesh & Saurabh'
+                attribution='Made with ❤️ by Aawesh & Saurabh'
             />
 
             
