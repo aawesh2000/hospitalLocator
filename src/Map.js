@@ -101,9 +101,8 @@ More at: http://covidhospitals.online/`,
             />
             
             <TileLayer
-                attribution='Made with ❤️ by Md Aawesh <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >Md Aawesh</a> & Saurabh <a href="https://www.linkedin.com/in/saurabh-masal-67a36616a/" target="_blank" >Saurabh</a>'
+                attribution='Made with ❤️ by <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >Md Aawesh</a>'
                 url="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/"
-                url="https://www.linkedin.com/in/saurabh-masal-67a36616a/"
             />
     
             
