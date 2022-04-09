@@ -105,12 +105,6 @@ More at: http://covidhospitals.online/`,
                 url="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/"
             />
     
-    /*
-            <TileLayer
-                attribution='Made with ❤️ by Md Aawesh & Saurabh'
-            />
-    */
-    
             
             
             <LocateControl key="locate" options={locateOptions} />
