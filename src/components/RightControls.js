@@ -110,9 +110,9 @@ function SourceDialog(props) {
                 </TableContainer>
 
                 <p>
-                    This site is an open source project created by <a href="https://github.com/pgollangi" target="_blank" >pgollangi</a>.
+                    This site is an open source project created by <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="_blank" >pgollangi</a>.
                     </p>
-                <p> Please feel make changes to this, or add more data sources at <a href="https://github.com/covidhospitals/covidhospitals" target="blank">github.com/covidhospitals/covidhospitals</a>
+                <p> Please feel make changes to this, or add more data sources at <a href="https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/" target="blank">https://www.linkedin.com/in/md-aawesh-patanwala-3178a3166/</a>
                 </p>
             </DialogContent>
             <DialogActions>
